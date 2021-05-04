@@ -1,3 +1,3 @@
-# What is Git and why do we use it?
 >JOURNAL 1 5/3/2021
+# What is Git and why do we use it?
 > Git is an open source software that is used to track and store coding data. Using Git allows developers to write and record code, and track modifications they've made to their work. Through interfacing directly with the website GitHub, which is an online database and data sharing network, developers can share, store, and access their code from multiple devices. Storing data in multiple locations protects the content in case of major hardware failure and data corruption. This also allows multiple developers to easily work together on the same project remotely. Through the use of branches multiple developers can write, edit, and add to the code stored on GitHub, without overwriting the other developers progress or changes to the master. The work of all developers can then be reviewed and merged together into a single final product.
