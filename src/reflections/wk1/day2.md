@@ -1,5 +1,5 @@
 JOURNAL 2 5/4/2021 
-daily challengs 
+daily challenge
 https://ericwakeman.github.io/CoolSite-Challenge-Attempt-2/
 
 # What is Pseudo class, Specificity, and the !important Feature?
