@@ -1,5 +1,6 @@
 JOURNAL 5/10/2021
 
+https://ericwakeman.github.io/js-tests-basics-master/
 
 # Scope, Hoisting, Let/Const/Var?
 
