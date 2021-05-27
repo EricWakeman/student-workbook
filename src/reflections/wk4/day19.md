@@ -1,5 +1,5 @@
 5/27/2021 DAILY JOURNAL
-
+https://github.com/AlexMuir138/PokeApi
 
 # What is REST? What is stateless? What URL pattern is used in RESTful apps?
 
