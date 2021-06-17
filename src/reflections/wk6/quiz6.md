@@ -28,7 +28,8 @@ Liskov substitution principle
 ```
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
-```App.vue
+```
+App.vue
 
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
@@ -48,7 +49,8 @@ main.js
 ```
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
-```style. scoped
+```
+style. scoped
 
 ```
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
